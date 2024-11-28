@@ -1,0 +1,17 @@
+name: PlayerRename
+main: KnosTx\PlayerRename\Main
+version: 1.0.0
+api: 5.0.0
+author: KnosTx
+commands:
+  rename:
+    usage: "/rename <newName>"
+    permission: playerrename.rename
+  listrenamed:
+    usage: "/listrenamed"
+    permission: playerrename.list
+permissions:
+  playerrename.rename:
+    default: op
+  playerrename.list:
+    default: op
