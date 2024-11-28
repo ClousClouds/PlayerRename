@@ -19,7 +19,7 @@ PlayerRename is a plugin that allows server administrators to change a player's 
 
 ## Installation
 1. Download the `PlayerRename` plugin.
-2. Place the `.jar` file into the `plugins` directory of your server.
+2. Place the `.phar` file into the `plugins` directory of your server.
 3. Restart or reload your server to enable the plugin.
 
 ## Configuration
